@@ -1,0 +1,105 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "cargo-shuttle@latest": {
+      "last_modified": "2025-07-13T22:45:35Z",
+      "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#cargo-shuttle",
+      "source": "devbox-search",
+      "version": "0.56.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/rjnsla8gf0xnpb4wcbmhxiwk6dg84mwd-cargo-shuttle-0.56.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/rjnsla8gf0xnpb4wcbmhxiwk6dg84mwd-cargo-shuttle-0.56.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/x1x4hk0dwp1qhgzfb8jfs5q9f2zrml3b-cargo-shuttle-0.56.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/x1x4hk0dwp1qhgzfb8jfs5q9f2zrml3b-cargo-shuttle-0.56.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/g776bhw92pp6c19k89sfi50cc9hq3cq0-cargo-shuttle-0.56.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/g776bhw92pp6c19k89sfi50cc9hq3cq0-cargo-shuttle-0.56.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/yfvvjn45alaczppdqnn02q9v26qvy2zy-cargo-shuttle-0.56.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/yfvvjn45alaczppdqnn02q9v26qvy2zy-cargo-shuttle-0.56.0"
+        }
+      }
+    },
+    "cargo@latest": {
+      "last_modified": "2025-07-13T22:45:35Z",
+      "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#cargo",
+      "source": "devbox-search",
+      "version": "1.88.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xi7h5x85b0jasfjywj033hhrvarqpsm9-cargo-1.88.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xi7h5x85b0jasfjywj033hhrvarqpsm9-cargo-1.88.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xy5h5sv2fp8mq2vs8cvbx5ajpcmzy8gq-cargo-1.88.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xy5h5sv2fp8mq2vs8cvbx5ajpcmzy8gq-cargo-1.88.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d8nws85q8hri9qygxcgkz3g6m876cdvb-cargo-1.88.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/d8nws85q8hri9qygxcgkz3g6m876cdvb-cargo-1.88.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bcv2nzjldz3swhjdn07zmd897kl6y1xf-cargo-1.88.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/bcv2nzjldz3swhjdn07zmd897kl6y1xf-cargo-1.88.0"
+        }
+      }
+    },
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "last_modified": "2025-07-04T10:39:05Z",
+      "resolved": "github:NixOS/nixpkgs/c860cf0b3a0829f0f6cf344ca8de83a2bbfab428?lastModified=1751625545&narHash=sha256-4E7wWftF1ExK5ZEDzj41%2B9mVgxtuRV3wWCId7QAYMAU%3D"
+    }
+  }
+}
